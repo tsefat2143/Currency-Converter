@@ -14,4 +14,4 @@
 
 ### Must obtain API KEY
 
-<img src='/src/currency.png' width=500px height=400px title='currency' alt='currency' />
+<img src='/src/currency.png' width=400px height=300px title='currency' alt='currency' />
